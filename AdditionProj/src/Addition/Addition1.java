@@ -11,6 +11,8 @@ public class Addition1 {
 		
 		sum = a + b ;
 		
+		int sub = b - a ;
+		
 		System.out.println(sum);
 	}
 
